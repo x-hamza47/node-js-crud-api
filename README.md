@@ -47,13 +47,13 @@ node -v
 1. Clone this repo
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/x-hamza47/node-js-crud-api.git
 ```
 
 2. Go into the folder
 
 ```
-cd your-repo-name
+cd node-js-crud-api
 ```
 
 3. Make sure `data/products.json` exists. If it doesn't, just create it with an empty array so the app has something to read:
